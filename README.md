@@ -1,3 +1,5 @@
+**The authoritative, most up-to-date version of the LingView software is at [BrownCLPS/LingView](https://github.com/BrownCLPS/LingView). If you're interested in using LingView, please go there.** You're currently looking at a different version, which is owned by me, GitHub user sciepsilon. I use this repo for testing purposes and general mucking around. 
+
 # LingView 
 A web interface for viewing glossed ELAN and FLEx files, optionally with time-synced video and audio. Developed at Brown University as part of the A'ingae Language Documentation initiative, this fork is a generalization of the A'ingae-specific website [here](https://github.com/Designist/Korpus).
 
